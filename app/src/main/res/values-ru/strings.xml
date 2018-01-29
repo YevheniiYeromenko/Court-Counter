@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Баскетбольный счет</string>
+    <string name="team_a">Команда A</string>
+    <string name="team_b">Команда B</string>
+    <string name="plus_three">+3 очка</string>
+    <string name="plus_two">+2 очка</string>
+    <string name="plus_one">+1 очко</string>
+    <string name="reset">сброс</string>
+</resources>
